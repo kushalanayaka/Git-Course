@@ -1,0 +1,8 @@
+Git --version
+git config global user.name "Kushal" ( To set)
+git config global user.email "Kushal@g.c" ( To set)
+
+git config global user.name  ( To get)
+git config global user.email  ( To get)
+
+git config --list (to get both)
