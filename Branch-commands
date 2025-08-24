@@ -1,0 +1,9 @@
+git branch ( to check branch)
+
+git branch -m main ( to rename branch to main)
+
+git checkout <-branch_name-> (to navigate)
+
+git checkout -b <-new_branch_name->
+
+git branch -d <-branch_name-> (to delete branch, note: you can't delete your current branch )
