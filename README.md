@@ -1,2 +1,2 @@
-## Learning Git
-# By Refering Youtube.
+# Learning Git
+### By Refering Youtube.
