@@ -6,4 +6,4 @@ git checkout <-branch_name-> (to navigate)
 
 git checkout -b <-new_branch_name->
 
-git branch -d <-branxh_name-> (to delete branch, note: you can't delete your current branch )
+git branch -d <-branch_name-> (to delete branch, note: you can't delete your current branch )
